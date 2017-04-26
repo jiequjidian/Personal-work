@@ -1,0 +1,21 @@
+body
+{
+padding:0;
+background-color:#00A2e8;
+background-image:url("/images/bg.jpg");
+font-family:FangSong, 'Microsoft YaHei', sans-serif;
+font-size:18px;
+margin:auto auto auto auto;
+color:blue;
+}
+table{
+   border:0px solid purple;
+   background-color:#eee;
+    margin-right: auto;
+    margin-left:auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.content{
+    height:304px;
+}
